@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<i>I will be keeping this default README.md file for future Reference to React Resources.</i>
+
 ## Available Scripts
 
 In the project directory, you can run:
