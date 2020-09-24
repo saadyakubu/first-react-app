@@ -1,6 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <i>I will be keeping this default README.md file for future Reference to React Resources.</i>
+<br>
+Played with the App to learn more about React features. Screenshot below:
+<img src='./screenshot.png' alt='screenshot of game'><br/>
+ 
+
 
 ## Available Scripts
 
